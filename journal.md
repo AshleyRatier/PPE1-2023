@@ -10,5 +10,3 @@ Pour le 2ème cours nous devions faire un exercice qui consistait à créer un e
 Concernant github, la création de clé s'est bien passé cependant il y a des étapes où j'ai eu un peu plus de mal à suivre car je n'avais pas une bonne connexion. 
 
 ##4 octobre 2023 - Cours 3
-
-à venir
