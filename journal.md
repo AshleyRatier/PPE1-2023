@@ -15,3 +15,6 @@ blablablablabla
 blablabla
 
 # Séance 3
+Lors du 3ème cours, nous avons appris les commandes pour corriger des erreurs en git. J'ai reussi l'exercice 1.a, pour le 1.b j'ai eu un peu plus de mal pour récupérer l'identifiant SHA on m'a ensuite expliqué que c'était avec la commande git log. Je n'avais également pas compris qu'il fallait faire le changement sur le site et non en local et j'avais push mes changements au lieu de juste les commit.
+Pour le 1.c j'ai réussi à créer le tag sans problème.
+Pour l'exercice 2 j'ai mis un peu de temps à trouver la bonne commande pour créer le fichier oups.md puis je l'ai finalement trouvé dans le diapo Shell, j'ai ensuite rencontré des difficultés pour la quesiton suivante, je n'ai pas compris ce qu'il fallait faire. J'ai donc essayé d'écrire quelque chose dans le fichier oups.md mais je n'ai pas réussi à faire les commit. Cependant je pense que la commmande qu'il fallait utiliser pour répondre à la question 2.a est la commande git reset HEAD~
