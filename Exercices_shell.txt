@@ -1,0 +1,182 @@
+    3144
+    2466
+    3110
+   
+   1 T5	Date 184 197	novembre 2015
+   1 T18	Date 1072 1085	novembre 2015
+   1 T16	Date 1411 1427	29 novembre 1956
+   1 T6	Date 215 228	novembre 2015
+   1 T42	Date 4626 4639	novembre 2015
+   1 T9	Date 367 380	novembre 2014
+   1 T21	Date 793 806	novembre 2013
+   1 T12	Date 453 466	novembre 2016
+   1 T3	Date 54 71	1er novembre 2016
+   1 T6	Date 111 128	1er novembre 2016
+   1 T2	Date 47 62	2 novembre 2016
+   1 T4	Date 52 67	3 novembre 2016
+   1 T3	Date 61 76	4 novembre 2016
+   1 T2	Date 80 95	7 novembre 2016
+   1 T2	Date 58 73	7 novembre 2016
+   1 T3	Date 82 97	8 novembre 2016
+   1 T2	Date 52 67	8 novembre 2016
+   1 T3	Date 65 80	8 novembre 2016
+   1 T3	Date 63 78	8 novembre 2016
+   1 T3	Date 60 75	8 novembre 2016
+   1 T3	Date 51 66	9 novembre 2016
+   1 T2	Date 42 58	10 novembre 2016
+   1 T4	Date 155 171	lundi 7 novembre
+   1 T2	Date 68 84	11 novembre 2016
+   1 T3	Date 61 77	11 novembre 2016
+   1 T2	Date 57 73	12 novembre 2016
+   1 T4	Date 93 112	mercredi 9 novembre
+   1 T5	Date 78 94	12 novembre 2016
+   1 T10	Date 188 206	6 novembre dernier
+   1 T1	Date 60 76	13 novembre 2016
+   1 T5	Date 84 100	13 novembre 2016
+   1 T1	Date 26 42	14 novembre 2016
+   1 T2	Date 53 69	14 novembre 2016
+   1 T1	Date 71 87	14 novembre 2016
+   1 T2	Date 48 64	14 novembre 2016
+   1 T2	Date 44 60	15 novembre 2016
+   1 T2	Date 62 78	15 novembre 2016
+   1 T3	Date 60 76	15 novembre 2016
+   1 T2	Date 56 72	15 novembre 2016
+   1 T3	Date 77 93	16 novembre 2016
+   1 T2	Date 70 86	16 novembre 2016
+   1 T2	Date 85 101	17 novembre 2016
+   1 T3	Date 67 83	19 novembre 2016
+   1 T9	Date 621 637	17 novembre 2016
+   1 T22	Date 3183 3194	24 novembre
+   1 T5	Date 84 100	19 novembre 2016
+   1 T4	Date 54 70	20 novembre 2016
+   1 T4	Date 67 83	20 novembre 2016
+   1 T3	Date 83 99	20 novembre 2016
+   1 T4	Date 81 97	20 novembre 2016
+   1 T5	Date 105 125	dimanche 20 novembre
+   1 T13	Date 464 480	20 novembre 2016
+   1 T2	Date 56 72	20 novembre 2016
+   1 T4	Date 33 49	23 novembre 2016
+   1 T3	Date 108 124	23 novembre 2016
+   1 T1	Date 39 55	24 novembre 2016
+   1 T3	Date 76 92	24 novembre 2016
+   1 T7	Date 558 569	24 novembre
+   1 T3	Date 85 101	24 novembre 2016
+   1 T5	Date 181 192	22 novembre
+   1 T2	Date 59 75	24 novembre 2016
+   1 T3	Date 57 73	24 novembre 2016
+   1 T2	Date 61 77	25 novembre 2016
+   1 T5	Date 84 100	26 novembre 2016
+   1 T2	Date 60 76	26 novembre 2016
+   1 T2	Date 23 39	26 novembre 2016
+   1 T2	Date 65 81	27 novembre 2016
+   1 T1	Date 59 75	28 novembre 2016
+   1 T3	Date 41 57	29 novembre 2016
+   1 T2	Date 84 100	30 novembre 2016
+   1 T5	Date 169 185	29 novembre 2016
+   1 T3	Date 62 78	30 novembre 2016
+   1 T5	Date 140 157	lundi 28 novembre
+   1 T3	Date 68 79	29 novembre
+   1 T20	Date 1745 1756	26 novembre
+   1 T6	Date 200 217	lundi 28 novembre
+   1 T15	Date 362 377	5 novembre 2017
+   1 T13	Date 543 558	6 novembre 2016
+   1 T46	Date 3377 3390	novembre 2016
+   1 T6	Date 166 179	novembre 2016
+   1 T7	Date 797 810	novembre 2016
+   1 T6	Date 373 386	novembre 2016
+   1 T6	Date 220 233	novembre 2016
+   1 T22	Date 1737 1750	novembre 2015
+   1 T6	Date 303 314	20 novembre
+   1 T13	Date 595 608	novembre 2015
+   1 T23	Date 1241 1254	novembre 2013
+   1 T34	Date 2555 2568	novembre 2013
+   1 T5	Date 137 150	novembre 2014
+   1 T49	Date 3932 3945	novembre 2015
+   1 T13	Date 568 581	novembre 2016
+   1 T20	Date 1010 1023	novembre 2015
+   1 T22	Date 1650 1666	30 novembre 2013
+   1 T6	Date 629 644	9 novembre 2009
+   1 T20	Date 1402 1415	novembre 2015
+   1 T21	Date 1476 1495	12 novembre dernier
+   1 T9	Date 639 654	4 novembre 2016
+   1 T16	Date 1009 1022	novembre 2019
+   1 T4	Date 38 53	7 novembre 2017
+   1 T3	Date 89 105	10 novembre 2017
+   1 T2	Date 50 66	11 novembre 2017
+   1 T3	Date 65 81	13 novembre 2017
+   1 T3	Date 83 99	13 novembre 2017
+   1 T2	Date 53 69	15 novembre 2017
+   1 T3	Date 53 69	16 novembre 2017
+   1 T3	Date 53 69	21 novembre 2017
+   2 T3	Date 60 76	23 novembre 2017
+   1 T16	Date 689 705	13 novembre 2015
+   1 T8	Date 142 158	11 novembre 2008
+   1 T14	Date 577 592	2 novembre 2017
+   1 T10	Date 382 395	novembre 1969
+   1 T23	Date 1269 1282	novembre 2015
+   1 T2	Date 85 101	10 novembre 2018
+   1 T3	Date 109 125	mardi 5 novembre
+   1 T3	Date 58 74	10 novembre 2018
+   1 T9	Date 216 232	11 novembre 2018
+   1 T4	Date 53 69	10 novembre 2018
+   1 T7	Date 160 176	11 novembre 2018
+   1 T3	Date 69 85	14 novembre 2018
+   1 T5	Date 120 130	8 novembre
+   1 T3	Date 95 111	17 novembre 2018
+   1 T3	Date 60 76	17 novembre 2018
+   1 T6	Date 249 265	18 novembre 2018
+   1 T2	Date 53 69	19 novembre 2018
+   1 T4	Date 95 111	19 novembre 2018
+   1 T3	Date 67 83	25 novembre 2018
+   1 T9	Date 252 268	25 novembre 2018
+   1 T3	Date 72 88	26 novembre 2018
+   1 T4	Date 86 102	29 novembre 2018
+   1 T13	Date 716 727	17 novembre
+   1 T3	Date 57 73	29 novembre 2018
+   1 T7	Date 237 248	26 novembre
+   1 T8	Date 252 263	29 novembre
+   1 T6	Date 75 91	30 novembre 2018
+   1 T14	Date 258 269	27 novembre
+   1 T8	Date 323 341	samedi 17 novembre
+   1 T9	Date 357 375	samedi 24 novembre
+   1 T11	Date 237 248	26 novembre
+   1 T10	Date 238 249	27 novembre
+   1 T8	Date 335 358	samedi 17 novembre 2018
+   1 T7	Date 186 197	29 novembre
+   1 T9	Date 327 350	samedi 17 novembre 2018
+   1 T9	Date 250 261	28 novembre
+   1 T9	Date 327 350	samedi 17 novembre 2018
+   1 T22	Date 742 758	30 novembre 2018
+   1 T8	Date 333 356	samedi 17 novembre 2018
+   1 T9	Date 327 350	samedi 17 novembre 2018
+   1 T9	Date 333 356	samedi 17 novembre 2018
+   1 T8	Date 310 328	samedi 17 novembre
+   1 T9	Date 342 360	samedi 24 novembre
+   1 T9	Date 333 356	samedi 17 novembre 2018
+   1 T9	Date 330 353	samedi 17 novembre 2018
+   1 T9	Date 331 354	samedi 17 novembre 2018
+   1 T70	Date 2424 2435	27 novembre
+   1 T9	Date 337 360	samedi 17 novembre 2018
+   1 T9	Date 331 354	samedi 17 novembre 2018
+   1 T9	Date 337 360	samedi 18 novembre 2018
+   1 T8	Date 313 331	samedi 17 novembre
+   1 T9	Date 345 363	samedi 24 novembre
+   1 T9	Date 337 360	samedi 18 novembre 2018
+   1 T23	Date 1011 1022	17 novembre
+   1 T30	Date 1741 1752	17 novembre
+   1 T9	Date 331 354	samedi 18 novembre 2018
+   1 T10	Date 331 354	samedi 18 novembre 2018
+   1 T10	Date 337 360	samedi 17 novembre 2018
+   1 T38	Date 1226 1237	26 novembre
+   1 T9	Date 331 354	samedi 17 novembre 2018
+   1 T9	Date 337 360	samedi 17 novembre 2018
+   1 T8	Date 314 332	samedi 17 novembre
+   1 T9	Date 346 364	samedi 24 novembre
+   1 T9	Date 337 360	samedi 17 novembre 2018
+   1 T46	Date 2365 2381	17 novembre 2018
+   2 T9	Date 331 354	samedi 17 novembre 2018
+   1 T9	Date 337 360	samedi 17 novembre 2018
+   1 T9	Date 331 354	samedi 17 novembre 2018
+   1 T73	Date 4234 4245	24 novembre
+   2 T9	Date 337 360	samedi 17 novembre 2018
+   1 T9	Date 331 354	samedi 17 novembre 2018
