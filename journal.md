@@ -44,4 +44,8 @@ Concernant le projet de groupe nous avons créé un github afin de tenir un jour
 ## 08 novembre 2023 - Cours 7
 
 Pour le travail à faire de la séance 7, j'ai réussi à faire le tableau HTML sans grandes difficultés en partant du script corrigé. J'ai simplement rencontré un souci à la fin de l'exercice car j'avais mis la redirection de sortie dans mon script après mon echo de la balise spécifiant la fin du tableau, ce qui ne me renvoyait en sortie que cette ligne au lieu de me renvoyer le tableau. J'ai donc mis ma redirection dans le terminal et cela a réglé le souci.
-Concernant les exercices d'analyses de fichier texte, je n'ai pas eu de grandes difficultés non plus. J'avais simplement commencé mon script et continué les exercices snans enlever les lignes vides car je ne savais pas si nous devions le faire ou non mais je suis rendue compte lors de l'exercice 3 que cela pouvait être utile pour le comptage de mots et les bigrammes, pour éviter de compter des lignes superflues.  
+Concernant les exercices d'analyses de fichier texte, je n'ai pas eu de grandes difficultés non plus. J'avais simplement commencé mon script et continué les exercices snans enlever les lignes vides car je ne savais pas si nous devions le faire ou non mais je suis rendue compte lors de l'exercice 3 que cela pouvait être utile pour le comptage de mots et les bigrammes, pour éviter de compter des lignes superflues.
+
+## 15 novembre 2023 - Cours 8
+
+Pour la finalisation du mini projet, je n'ai pas rencontré de difficultés particulières. J'ai cherché sur la documentation de Bulma afin d'ajouter des bordures au tableau. J'ai également cherché comment ajouter une couleur personnalisée pour la première ligne de mon tableau ainsi que modifier la taille de celui-ci. Concernant le script j'ai simplement rajouté mes balises avec des lignes "echo".  
